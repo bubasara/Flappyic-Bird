@@ -1,6 +1,6 @@
 # Flappyić Bird
 ## Flappyić Bird is a Python desktop game similar to the world-famous game Flappy Bird, made as a college project in collaboration with my colleagues.
-### "ić" in flappy refers to a little flappy bird (in Serbian)
+### "ić" in flappyić refers to a little flappy bird (in Serbian)
 
 #### What's used?
 * Pygame
@@ -16,3 +16,5 @@
 * 8: https://youtu.be/FbpjpW_2VVE
 
 #### Preview
+![Flappyić Bird preview 1](https://raw.githubusercontent.com/bubasara/Flappyic-Bird/main/images/preview/flappy-preview-1.png)
+![Flappyić Bird preview 2](https://raw.githubusercontent.com/bubasara/Flappyic-Bird/main/images/preview/flappy-preview-2.png)
